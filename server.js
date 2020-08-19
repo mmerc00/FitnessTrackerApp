@@ -1,6 +1,6 @@
 const express = require("express");
-const mongojs = require("mongojs");
-const logger = require("morgan");
+// const mongojs = require("mongojs");
+// const logger = require("morgan");
 const mongoose = require("mongoose");
 const app = express();
 
@@ -21,6 +21,7 @@ db.on("error", (error) => {
   console.log("Database Error:", error);
 });
 
+//app.use(require"routes?)
 // Listen on port 3000
 app.listen(3000, () => {
   console.log("App running on port 3000!");
