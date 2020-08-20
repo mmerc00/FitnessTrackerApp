@@ -1,10 +1,10 @@
 # Unit 17 Nosql Homework: Workout Tracker
 
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+This application is used to keep track of a users
 
 ## User Story
 
-* As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+- As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 ## Business Context
 
@@ -16,11 +16,11 @@ When the user loads the page, they should be given the option to create a new wo
 
 The user should be able to:
 
-  * Add exercises to a previous workout plan.
+- Add exercises to a previous workout plan.
 
-  * Add new exercises to a new workout plan.
+- Add new exercises to a new workout plan.
 
-  * View multiple the combined weight of multiple exercises on the `stats` page.
+- View multiple the combined weight of multiple exercises on the `stats` page.
 
 ## Commit Early and Often
 
@@ -32,13 +32,13 @@ One of the most important skills to master as a web developer is version control
 
 Follow these guidelines for committing:
 
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
+- Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
 
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
+- Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
 
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
+- Don't commit half done work, for the sake of your collaborators (and your future self!)
 
-* Test your application before you commit to ensure functionality at every step in the development process
+- Test your application before you commit to ensure functionality at every step in the development process
 
 We would like you to have well over 200 commits by graduation, so commit early and often!
 
@@ -46,6 +46,6 @@ We would like you to have well over 200 commits by graduation, so commit early a
 
 You are required to submit the following:
 
-* The URL to the deployed application
+- The URL to the deployed application
 
-* The URL to the Github repository
+- The URL to the Github repository

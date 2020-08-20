@@ -30,8 +30,6 @@ module.exports = function (app) {
   app.get("/api/workouts", (req, res) => {
     //  grabbing it from database
     //  populate properties array
-    //  populate("librarians")- chain populates with models
-    //  .populate("exercises") // only if relating to different table named exercises
     Workout.find({})
       .then((dbWorkout) => {
         res.json(dbWorkout);
