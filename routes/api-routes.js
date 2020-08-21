@@ -38,4 +38,18 @@ module.exports = function (app) {
         res.json(err);
       });
   });
+  // GET stats page
+  app.get("/api/workouts/range", (req, res) => {
+    //built off seed js
+    const start = new Date().setDate(new Date().getDate() - 7);
+    //$gte
+    //$lte
+    Workout.find({ day: { $gte: start, $lte: Date.now() } })
+      .then((dbWorkout) => {
+        res.json(dbWorkout);
+      })
+      .catch((err) => {
+        res.json(err);
+      });
+  });
 };
