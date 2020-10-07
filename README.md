@@ -1,11 +1,13 @@
 ![Demo](fitnesstrackerapp.gif)
-https://fitnessapplication.herokuapp.com/
+* (https://fitnessapplication.herokuapp.com/
+) - Try it yourself!
+
 
 # NoSql: Workout Tracker
 
 This application is used to keep track of ones fitness activity.
 
-# Built With
+## Built With
 
 - VS CODE
 - Javascript
@@ -17,16 +19,13 @@ This application is used to keep track of ones fitness activity.
 - Mongoose
 - GitHub
 
-# Authors
+## Authors
 
 Melissa Mercado
 
-# Acknowledgements
+## Acknowledgements
 
-Ben Wright
-Justin Pinero
-Ben Benson (Tutor)
-Cammryne Sullivan
-James Rowe
-Justin Ramirez
-James Kim
+- Cammryne Sullivan
+- James Rowe
+- Justin Ramirez
+- James Kim
