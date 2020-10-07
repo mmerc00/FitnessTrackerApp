@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 // To start make the model within mongoose
 const Schema = mongoose.Schema;
-// call in a constructor with the syntax new
+//Calling in a constructor with the syntax new
 const WorkoutSchema = new Schema(
   {
     day: {

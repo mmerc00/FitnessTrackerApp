@@ -1,3 +1,4 @@
+//async awaits to get logged workouts from database
 const API = {
   async getLastWorkout() {
     let res;
