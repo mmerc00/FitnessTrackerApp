@@ -18,4 +18,3 @@
     "morgan": "^1.10.0"
   }
 }
-//nodemon instead of killall node
