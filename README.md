@@ -1,6 +1,6 @@
 ![Demo](fitnesstrackerapp.gif)
-* (https://fitnessapplication.herokuapp.com/
-) - Try it yourself!
+* [Check out the app here!](https://fitnessapplication.herokuapp.com/
+) - The web framework used
 
 
 # NoSql: Workout Tracker
