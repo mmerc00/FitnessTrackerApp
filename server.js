@@ -11,13 +11,13 @@ app.use(logger("dev"));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
-// connecting to the database
+//Connection to database
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useNewUrlParser: true,
   useFindAndModify: false,
   useUnifiedTopology: true,
 });
-//Routes
+//Route
 require("./routes/api-routes.js")(app);
 require("./routes/html-routes.js")(app);
 // Listen on port 3000

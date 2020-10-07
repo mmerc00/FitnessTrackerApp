@@ -1,4 +1,5 @@
 ![Demo](fitnesstrackerapp.gif)
+https://fitnessapplication.herokuapp.com/
 
 # NoSql: Workout Tracker
 
@@ -19,8 +20,6 @@ This application is used to keep track of ones fitness activity.
 # Authors
 
 Melissa Mercado
-
-License N/A
 
 # Acknowledgements
 
