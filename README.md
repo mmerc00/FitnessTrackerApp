@@ -1,5 +1,5 @@
 ![Demo](fitnesstrackerapp.gif)
- *[Check out the app here!](https://fitnessapplication.herokuapp.com/
+ -- [Check out the app here!](https://fitnessapplication.herokuapp.com/
 ) 
 
 
