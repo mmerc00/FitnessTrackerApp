@@ -41,6 +41,7 @@ module.exports = function (app) {
   // GET stats page
   app.get("/api/workouts/range", (req, res) => {
     //built off seed js
+    //start combines newDate and setDate
     const start = new Date().setDate(new Date().getDate() - 7);
     //$gte
     //$lte

@@ -1,8 +1,8 @@
 ![Demo](fitnesstrackerapp.gif)
 
-# Unit 17 Nosql Homework: Workout Tracker
+# NoSql: Workout Tracker
 
-This application is used to keep track of a users ftiness activity.
+This application is used to keep track of ones fitness activity.
 
 # Built With
 
@@ -14,7 +14,7 @@ This application is used to keep track of a users ftiness activity.
 - NPM Express
 - MongoDB
 - Mongoose
-- Github
+- GitHub
 
 # Authors
 
